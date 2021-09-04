@@ -17,11 +17,12 @@ presents the clustering model for claim + evidence arguments of the articles ids
 presents the clustering model only for claim arguments of the articles ids created using Graphs and NetworkX library
 
 
-
+# Rest files
 #### datasets.7z file contains all datasets used for the project
 #### Fasttext_inputs(train_validation_test).7z file contains all .txt files that were created in order to be used as input and test with the correct format required by FastText algorithm
 #### final classification models that were created using FastText for both arguments and structure are available at https://drive.google.com/drive/folders/1sOhtG7tBMGE47n7wPcrmn3YS3VbKkJlH?usp=sharing
 
 
 
-# final_report.pdf file describes the whole project in a structured report.
+# final_report.pdf file 
+describes the whole project in a structured report.

@@ -1,15 +1,20 @@
 # Argumentation-Mining
 Argumentation Mining Project for course Machine Learning and Content Analytics
 
-# Intuitive_baseline_model.ipynb file presents the baseline model that was created and used as a measure of comparison
+# Intuitive_baseline_model.ipynb file 
+presents the baseline model that was created and used as a measure of comparison
 
-# Classification_Fasttext_Approach_Arguments.ipynb file presents the classification models for the arguments of the article ids created using the FastText algorithm
+# Classification_Fasttext_Approach_Arguments.ipynb file 
+presents the classification models for the arguments of the article ids created using the FastText algorithm
 
-# Classification_Fasttext_Approach_Structure.ipynb file presents the classification models for the structure of the article ids created using the FastText algorithm
+# Classification_Fasttext_Approach_Structure.ipynb file 
+presents the classification models for the structure of the article ids created using the FastText algorithm
 
-# Clustering_Graph_Claim_Evidence.ipynb file presents the clustering model for claim + evidence arguments of the articles ids created using Graphs and NetworkX library
+# Clustering_Graph_Claim_Evidence.ipynb file 
+presents the clustering model for claim + evidence arguments of the articles ids created using Graphs and NetworkX library
 
-# Clustering_Graph_Claim_only.ipynb file presents the clustering model only for claim arguments of the articles ids created using Graphs and NetworkX library
+# Clustering_Graph_Claim_only.ipynb file 
+presents the clustering model only for claim arguments of the articles ids created using Graphs and NetworkX library
 
 
 
